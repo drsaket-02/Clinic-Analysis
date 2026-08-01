@@ -7,7 +7,7 @@ Medicine + Technology learning journey.
 
 ---
 
-## Project 1: RNT Clinic Data Analysis
+## Project 1: Clinic Data Analysis
 **File:** Clinical_data_2.0.ipynb
 
 Analysis of 2000 patient records from a clinical dataset.
