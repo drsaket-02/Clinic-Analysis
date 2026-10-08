@@ -40,8 +40,25 @@ Machine learning model to predict diabetes using clinical parameters.
 
 **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Google Colab
 
+
 ---
+
+## Project 3: Pulmonary TB Detection from Chest X-rays
+**File:** PulmonaryTB_ML_1.ipynb
+
+Deep learning model to detect Tuberculosis from chest X-ray images using CNNs.
+
+**Dataset:** Tuberculosis Chest X-ray Database — Qatar University/Dhaka Medical College (2200 images: 700 TB, 1500 Normal)
+
+**What this covers:**
+- Image preprocessing and data augmentation
+- Transfer learning with ResNet-18 (fine-tuned on medical images)
+- Model accuracy: 99.76% | Sensitivity: 99.4% | Specificity: 100%
+- Error analysis: 4 false negatives identified and clinically interpreted
+- External image testing with probability output (distribution shift discussed)
+
+**Tools:** Python, fastai, PyTorch, ResNet-18, Jupyter Notebook
 
 ## Skills demonstrated
 Python | Pandas | Scikit-learn | Data Cleaning | 
-Machine Learning | Data Visualization | Clinical Data Analysis
+Machine Learning | Data Visualization | Clinical Data Analysis | fastai | PyTorch
