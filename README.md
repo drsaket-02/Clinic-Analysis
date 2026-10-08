@@ -59,6 +59,9 @@ Deep learning model to detect Tuberculosis from chest X-ray images using CNNs.
 
 **Tools:** Python, fastai, PyTorch, ResNet-18, Jupyter Notebook
 
+---
+
 ## Skills demonstrated
 Python | Pandas | Scikit-learn | Data Cleaning | 
 Machine Learning | Data Visualization | Clinical Data Analysis | fastai | PyTorch
+Deep Learning | Computer Vision | Transfer Learning
