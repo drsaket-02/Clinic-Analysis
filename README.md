@@ -53,7 +53,7 @@ Deep learning model to detect Tuberculosis from chest X-ray images using CNNs.
 **What this covers:**
 - Image preprocessing and data augmentation
 - Transfer learning with ResNet-18 (fine-tuned on medical images)
-- Model accuracy: 99.76% | Sensitivity: 99.4% | Specificity: 100%
+- Model accuracy: 99.5% | Sensitivity: 97.1% | Specificity: 100%
 - Error analysis: 4 false negatives identified and clinically interpreted
 - External image testing with probability output (distribution shift discussed)
 
