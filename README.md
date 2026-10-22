@@ -57,6 +57,8 @@ Deep learning model to detect Tuberculosis from chest X-ray images using CNNs.
 - Error analysis: 4 false negatives identified and clinically interpreted
 - External image testing with probability output (distribution shift discussed)
 
+**External validation on a Pakistani hospital dataset (3,008 images): 68% accuracy, demonstrating distribution shift**
+
 **Tools:** Python, fastai, PyTorch, ResNet-18, Jupyter Notebook
 
 ---
