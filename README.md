@@ -48,7 +48,7 @@ Machine learning model to predict diabetes using clinical parameters.
 
 Deep learning model to detect Tuberculosis from chest X-ray images using CNNs.
 
-**Dataset:** Tuberculosis Chest X-ray Database — Qatar University/Dhaka Medical College (2200 images: 700 TB, 1500 Normal)
+**Dataset:** Tuberculosis Chest X-ray Database — Qatar University/Dhaka Medical College (4200 images: 700 TB, 3500 Normal)
 
 **What this covers:**
 - Image preprocessing and data augmentation
